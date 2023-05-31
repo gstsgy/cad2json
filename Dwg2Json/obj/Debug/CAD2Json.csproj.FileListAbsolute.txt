@@ -1,0 +1,186 @@
+D:\pro\CAD2Json\CAD2Json\Dwg2Json\bin\Debug\CAD2Json.exe.config
+D:\pro\CAD2Json\CAD2Json\Dwg2Json\bin\Debug\CAD2Json.exe
+D:\pro\CAD2Json\CAD2Json\Dwg2Json\bin\Debug\CAD2Json.pdb
+D:\pro\CAD2Json\CAD2Json\Dwg2Json\bin\Debug\TD_MgdBrep_4.00_10.dll
+D:\pro\CAD2Json\CAD2Json\Dwg2Json\bin\Debug\TD_Mgd_4.00_10.dll
+D:\pro\CAD2Json\CAD2Json\Dwg2Json\bin\Debug\TD_Br_4.00_10.dll
+D:\pro\CAD2Json\CAD2Json\Dwg2Json\bin\Debug\TD_BrepRenderer_4.00_10.dll
+D:\pro\CAD2Json\CAD2Json\Dwg2Json\bin\Debug\TD_AcisBuilder_4.00_10.dll
+D:\pro\CAD2Json\CAD2Json\Dwg2Json\bin\Debug\ModelerGeometry_4.00_10.tx
+D:\pro\CAD2Json\CAD2Json\Dwg2Json\bin\Debug\TD_Alloc_4.00_10.dll
+D:\pro\CAD2Json\CAD2Json\Dwg2Json\bin\Debug\TD_Db_4.00_10.dll
+D:\pro\CAD2Json\CAD2Json\Dwg2Json\bin\Debug\TD_DbRoot_4.00_10.dll
+D:\pro\CAD2Json\CAD2Json\Dwg2Json\bin\Debug\TD_Gi_4.00_10.dll
+D:\pro\CAD2Json\CAD2Json\Dwg2Json\bin\Debug\TD_Ge_4.00_10.dll
+D:\pro\CAD2Json\CAD2Json\Dwg2Json\bin\Debug\TD_Gs_4.00_10.dll
+D:\pro\CAD2Json\CAD2Json\Dwg2Json\bin\Debug\TD_Root_4.00_10.dll
+D:\pro\CAD2Json\CAD2Json\Dwg2Json\bin\Debug\TD_DynBlocks_4.00_10.tx
+D:\pro\CAD2Json\CAD2Json\Dwg2Json\bin\Debug\TD_SpatialIndex_4.00_10.dll
+D:\pro\CAD2Json\CAD2Json\Dwg2Json\obj\Debug\Dwg2Json.FormMain.resources
+D:\pro\CAD2Json\CAD2Json\Dwg2Json\obj\Debug\Dwg2Json.Properties.Resources.resources
+D:\pro\CAD2Json\CAD2Json\Dwg2Json\obj\Debug\CAD2Json.csproj.GenerateResource.Cache
+D:\pro\CAD2Json\CAD2Json\Dwg2Json\obj\Debug\CAD2Json.pdb
+D:\pro\CAD2Json\CAD2Json\Dwg2Json\bin\x86\Debug\CAD2Json.pdb
+D:\pro\CAD2Json\CAD2Json\Dwg2Json\bin\x86\Debug\TD_MgdBrep_4.00_10.dll
+D:\pro\CAD2Json\CAD2Json\Dwg2Json\bin\x86\Debug\TD_Mgd_4.00_10.dll
+D:\pro\CAD2Json\CAD2Json\Dwg2Json\bin\x86\Debug\TD_Br_4.00_10.dll
+D:\pro\CAD2Json\CAD2Json\Dwg2Json\bin\x86\Debug\TD_BrepRenderer_4.00_10.dll
+D:\pro\CAD2Json\CAD2Json\Dwg2Json\bin\x86\Debug\TD_AcisBuilder_4.00_10.dll
+D:\pro\CAD2Json\CAD2Json\Dwg2Json\bin\x86\Debug\ModelerGeometry_4.00_10.tx
+D:\pro\CAD2Json\CAD2Json\Dwg2Json\bin\x86\Debug\TD_Alloc_4.00_10.dll
+D:\pro\CAD2Json\CAD2Json\Dwg2Json\bin\x86\Debug\TD_Db_4.00_10.dll
+D:\pro\CAD2Json\CAD2Json\Dwg2Json\bin\x86\Debug\TD_DbRoot_4.00_10.dll
+D:\pro\CAD2Json\CAD2Json\Dwg2Json\bin\x86\Debug\TD_Gi_4.00_10.dll
+D:\pro\CAD2Json\CAD2Json\Dwg2Json\bin\x86\Debug\TD_Ge_4.00_10.dll
+D:\pro\CAD2Json\CAD2Json\Dwg2Json\bin\x86\Debug\TD_Gs_4.00_10.dll
+D:\pro\CAD2Json\CAD2Json\Dwg2Json\bin\x86\Debug\TD_Root_4.00_10.dll
+D:\pro\CAD2Json\CAD2Json\Dwg2Json\bin\x86\Debug\TD_DynBlocks_4.00_10.tx
+D:\pro\CAD2Json\CAD2Json\Dwg2Json\bin\x86\Debug\TD_SpatialIndex_4.00_10.dll
+D:\pro\CAD2Json\CAD2Json\Dwg2Json\obj\Debug\CAD2Json.csproj.CoreCompileInputs.cache
+D:\pro\CAD2Json\CAD2Json\Dwg2Json\obj\Debug\CAD2Json.csproj.CopyComplete
+D:\pro\CAD2Json\CAD2Json\Dwg2Json\bin\x86\Debug\CAD2Json.exe.config
+D:\pro\CAD2Json\CAD2Json\Dwg2Json\bin\x86\Debug\CAD2Json.exe
+D:\pro\CAD2Json\CAD2Json\Dwg2Json\bin\x86\Debug\Newtonsoft.Json.dll
+D:\pro\CAD2Json\CAD2Json\Dwg2Json\obj\Debug\CAD2Json.exe
+D:\pro\CAD2Json\CAD2Json\Dwg2Json\obj\Debug\Dwg2Json.Form2.resources
+D:\pro\CAD2Json\CAD2Json\Dwg2Json\obj\Debug\CAD2Json.csprojAssemblyReference.cache
+D:\pro\CAD2Json - 副本\CAD2Json\Dwg2Json\bin\x86\Debug\CAD2Json.exe.config
+D:\pro\CAD2Json - 副本\CAD2Json\Dwg2Json\bin\x86\Debug\CAD2Json.exe
+D:\pro\CAD2Json - 副本\CAD2Json\Dwg2Json\bin\x86\Debug\CAD2Json.pdb
+D:\pro\CAD2Json - 副本\CAD2Json\Dwg2Json\bin\x86\Debug\Newtonsoft.Json.dll
+D:\pro\CAD2Json - 副本\CAD2Json\Dwg2Json\bin\x86\Debug\TD_MgdBrep_4.00_10.dll
+D:\pro\CAD2Json - 副本\CAD2Json\Dwg2Json\bin\x86\Debug\TD_Mgd_4.00_10.dll
+D:\pro\CAD2Json - 副本\CAD2Json\Dwg2Json\bin\x86\Debug\TD_Br_4.00_10.dll
+D:\pro\CAD2Json - 副本\CAD2Json\Dwg2Json\bin\x86\Debug\TD_BrepRenderer_4.00_10.dll
+D:\pro\CAD2Json - 副本\CAD2Json\Dwg2Json\bin\x86\Debug\TD_AcisBuilder_4.00_10.dll
+D:\pro\CAD2Json - 副本\CAD2Json\Dwg2Json\bin\x86\Debug\ModelerGeometry_4.00_10.tx
+D:\pro\CAD2Json - 副本\CAD2Json\Dwg2Json\bin\x86\Debug\TD_Alloc_4.00_10.dll
+D:\pro\CAD2Json - 副本\CAD2Json\Dwg2Json\bin\x86\Debug\TD_Db_4.00_10.dll
+D:\pro\CAD2Json - 副本\CAD2Json\Dwg2Json\bin\x86\Debug\TD_DbRoot_4.00_10.dll
+D:\pro\CAD2Json - 副本\CAD2Json\Dwg2Json\bin\x86\Debug\TD_Gi_4.00_10.dll
+D:\pro\CAD2Json - 副本\CAD2Json\Dwg2Json\bin\x86\Debug\TD_Ge_4.00_10.dll
+D:\pro\CAD2Json - 副本\CAD2Json\Dwg2Json\bin\x86\Debug\TD_Gs_4.00_10.dll
+D:\pro\CAD2Json - 副本\CAD2Json\Dwg2Json\bin\x86\Debug\TD_Root_4.00_10.dll
+D:\pro\CAD2Json - 副本\CAD2Json\Dwg2Json\bin\x86\Debug\TD_DynBlocks_4.00_10.tx
+D:\pro\CAD2Json - 副本\CAD2Json\Dwg2Json\bin\x86\Debug\TD_SpatialIndex_4.00_10.dll
+D:\pro\CAD2Json - 副本\CAD2Json\Dwg2Json\obj\Debug\CAD2Json.csprojAssemblyReference.cache
+D:\pro\CAD2Json - 副本\CAD2Json\Dwg2Json\obj\Debug\Dwg2Json.Form2.resources
+D:\pro\CAD2Json - 副本\CAD2Json\Dwg2Json\obj\Debug\Dwg2Json.FormMain.resources
+D:\pro\CAD2Json - 副本\CAD2Json\Dwg2Json\obj\Debug\Dwg2Json.Properties.Resources.resources
+D:\pro\CAD2Json - 副本\CAD2Json\Dwg2Json\obj\Debug\CAD2Json.csproj.GenerateResource.cache
+D:\pro\CAD2Json - 副本\CAD2Json\Dwg2Json\obj\Debug\CAD2Json.csproj.CoreCompileInputs.cache
+D:\pro\CAD2Json - 副本\CAD2Json\Dwg2Json\obj\Debug\CAD2Json.csproj.CopyComplete
+D:\pro\CAD2Json - 副本\CAD2Json\Dwg2Json\obj\Debug\CAD2Json.exe
+D:\pro\CAD2Json - 副本\CAD2Json\Dwg2Json\obj\Debug\CAD2Json.pdb
+C:\Users\Administrator\Desktop\CAD2Json - 副本\CAD2Json\Dwg2Json\bin\x86\Debug\CAD2Json.exe.config
+C:\Users\Administrator\Desktop\CAD2Json - 副本\CAD2Json\Dwg2Json\bin\x86\Debug\CAD2Json.exe
+C:\Users\Administrator\Desktop\CAD2Json - 副本\CAD2Json\Dwg2Json\bin\x86\Debug\CAD2Json.pdb
+C:\Users\Administrator\Desktop\CAD2Json - 副本\CAD2Json\Dwg2Json\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\CAD2Json - 副本\CAD2Json\Dwg2Json\bin\x86\Debug\TD_MgdBrep_4.00_10.dll
+C:\Users\Administrator\Desktop\CAD2Json - 副本\CAD2Json\Dwg2Json\bin\x86\Debug\TD_Mgd_4.00_10.dll
+C:\Users\Administrator\Desktop\CAD2Json - 副本\CAD2Json\Dwg2Json\bin\x86\Debug\TD_Br_4.00_10.dll
+C:\Users\Administrator\Desktop\CAD2Json - 副本\CAD2Json\Dwg2Json\bin\x86\Debug\TD_BrepRenderer_4.00_10.dll
+C:\Users\Administrator\Desktop\CAD2Json - 副本\CAD2Json\Dwg2Json\bin\x86\Debug\TD_AcisBuilder_4.00_10.dll
+C:\Users\Administrator\Desktop\CAD2Json - 副本\CAD2Json\Dwg2Json\bin\x86\Debug\ModelerGeometry_4.00_10.tx
+C:\Users\Administrator\Desktop\CAD2Json - 副本\CAD2Json\Dwg2Json\bin\x86\Debug\TD_Alloc_4.00_10.dll
+C:\Users\Administrator\Desktop\CAD2Json - 副本\CAD2Json\Dwg2Json\bin\x86\Debug\TD_Db_4.00_10.dll
+C:\Users\Administrator\Desktop\CAD2Json - 副本\CAD2Json\Dwg2Json\bin\x86\Debug\TD_DbRoot_4.00_10.dll
+C:\Users\Administrator\Desktop\CAD2Json - 副本\CAD2Json\Dwg2Json\bin\x86\Debug\TD_Gi_4.00_10.dll
+C:\Users\Administrator\Desktop\CAD2Json - 副本\CAD2Json\Dwg2Json\bin\x86\Debug\TD_Ge_4.00_10.dll
+C:\Users\Administrator\Desktop\CAD2Json - 副本\CAD2Json\Dwg2Json\bin\x86\Debug\TD_Gs_4.00_10.dll
+C:\Users\Administrator\Desktop\CAD2Json - 副本\CAD2Json\Dwg2Json\bin\x86\Debug\TD_Root_4.00_10.dll
+C:\Users\Administrator\Desktop\CAD2Json - 副本\CAD2Json\Dwg2Json\bin\x86\Debug\TD_DynBlocks_4.00_10.tx
+C:\Users\Administrator\Desktop\CAD2Json - 副本\CAD2Json\Dwg2Json\bin\x86\Debug\TD_SpatialIndex_4.00_10.dll
+C:\Users\Administrator\Desktop\CAD2Json - 副本\CAD2Json\Dwg2Json\obj\Debug\CAD2Json.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\CAD2Json - 副本\CAD2Json\Dwg2Json\obj\Debug\Dwg2Json.Form2.resources
+C:\Users\Administrator\Desktop\CAD2Json - 副本\CAD2Json\Dwg2Json\obj\Debug\Dwg2Json.FormMain.resources
+C:\Users\Administrator\Desktop\CAD2Json - 副本\CAD2Json\Dwg2Json\obj\Debug\Dwg2Json.Properties.Resources.resources
+C:\Users\Administrator\Desktop\CAD2Json - 副本\CAD2Json\Dwg2Json\obj\Debug\CAD2Json.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\CAD2Json - 副本\CAD2Json\Dwg2Json\obj\Debug\CAD2Json.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CAD2Json - 副本\CAD2Json\Dwg2Json\obj\Debug\CAD2Json.csproj.CopyComplete
+C:\Users\Administrator\Desktop\CAD2Json - 副本\CAD2Json\Dwg2Json\obj\Debug\CAD2Json.exe
+C:\Users\Administrator\Desktop\CAD2Json - 副本\CAD2Json\Dwg2Json\obj\Debug\CAD2Json.pdb
+D:\pro\huitu\CAD2Json - 副本\CAD2Json\Dwg2Json\bin\x86\Debug\CAD2Json.exe.config
+D:\pro\huitu\CAD2Json - 副本\CAD2Json\Dwg2Json\bin\x86\Debug\CAD2Json.exe
+D:\pro\huitu\CAD2Json - 副本\CAD2Json\Dwg2Json\bin\x86\Debug\CAD2Json.pdb
+D:\pro\huitu\CAD2Json - 副本\CAD2Json\Dwg2Json\bin\x86\Debug\Newtonsoft.Json.dll
+D:\pro\huitu\CAD2Json - 副本\CAD2Json\Dwg2Json\bin\x86\Debug\TD_MgdBrep_4.00_10.dll
+D:\pro\huitu\CAD2Json - 副本\CAD2Json\Dwg2Json\bin\x86\Debug\TD_Mgd_4.00_10.dll
+D:\pro\huitu\CAD2Json - 副本\CAD2Json\Dwg2Json\bin\x86\Debug\TD_Br_4.00_10.dll
+D:\pro\huitu\CAD2Json - 副本\CAD2Json\Dwg2Json\bin\x86\Debug\TD_BrepRenderer_4.00_10.dll
+D:\pro\huitu\CAD2Json - 副本\CAD2Json\Dwg2Json\bin\x86\Debug\TD_AcisBuilder_4.00_10.dll
+D:\pro\huitu\CAD2Json - 副本\CAD2Json\Dwg2Json\bin\x86\Debug\ModelerGeometry_4.00_10.tx
+D:\pro\huitu\CAD2Json - 副本\CAD2Json\Dwg2Json\bin\x86\Debug\TD_Alloc_4.00_10.dll
+D:\pro\huitu\CAD2Json - 副本\CAD2Json\Dwg2Json\bin\x86\Debug\TD_Db_4.00_10.dll
+D:\pro\huitu\CAD2Json - 副本\CAD2Json\Dwg2Json\bin\x86\Debug\TD_DbRoot_4.00_10.dll
+D:\pro\huitu\CAD2Json - 副本\CAD2Json\Dwg2Json\bin\x86\Debug\TD_Gi_4.00_10.dll
+D:\pro\huitu\CAD2Json - 副本\CAD2Json\Dwg2Json\bin\x86\Debug\TD_Ge_4.00_10.dll
+D:\pro\huitu\CAD2Json - 副本\CAD2Json\Dwg2Json\bin\x86\Debug\TD_Gs_4.00_10.dll
+D:\pro\huitu\CAD2Json - 副本\CAD2Json\Dwg2Json\bin\x86\Debug\TD_Root_4.00_10.dll
+D:\pro\huitu\CAD2Json - 副本\CAD2Json\Dwg2Json\bin\x86\Debug\TD_DynBlocks_4.00_10.tx
+D:\pro\huitu\CAD2Json - 副本\CAD2Json\Dwg2Json\bin\x86\Debug\TD_SpatialIndex_4.00_10.dll
+D:\pro\huitu\CAD2Json - 副本\CAD2Json\Dwg2Json\obj\Debug\CAD2Json.csprojAssemblyReference.cache
+D:\pro\huitu\CAD2Json - 副本\CAD2Json\Dwg2Json\obj\Debug\Dwg2Json.Form2.resources
+D:\pro\huitu\CAD2Json - 副本\CAD2Json\Dwg2Json\obj\Debug\Dwg2Json.FormMain.resources
+D:\pro\huitu\CAD2Json - 副本\CAD2Json\Dwg2Json\obj\Debug\Dwg2Json.Properties.Resources.resources
+D:\pro\huitu\CAD2Json - 副本\CAD2Json\Dwg2Json\obj\Debug\CAD2Json.csproj.GenerateResource.cache
+D:\pro\huitu\CAD2Json - 副本\CAD2Json\Dwg2Json\obj\Debug\CAD2Json.csproj.CoreCompileInputs.cache
+D:\pro\huitu\CAD2Json - 副本\CAD2Json\Dwg2Json\obj\Debug\CAD2Json.csproj.CopyComplete
+D:\pro\huitu\CAD2Json - 副本\CAD2Json\Dwg2Json\obj\Debug\CAD2Json.exe
+D:\pro\huitu\CAD2Json - 副本\CAD2Json\Dwg2Json\obj\Debug\CAD2Json.pdb
+D:\pro\huitu\CAD2Json - 3.16\CAD2Json\Dwg2Json\bin\x86\Debug\CAD2Json.exe.config
+D:\pro\huitu\CAD2Json - 3.16\CAD2Json\Dwg2Json\bin\x86\Debug\CAD2Json.exe
+D:\pro\huitu\CAD2Json - 3.16\CAD2Json\Dwg2Json\bin\x86\Debug\CAD2Json.pdb
+D:\pro\huitu\CAD2Json - 3.16\CAD2Json\Dwg2Json\bin\x86\Debug\Newtonsoft.Json.dll
+D:\pro\huitu\CAD2Json - 3.16\CAD2Json\Dwg2Json\bin\x86\Debug\TD_MgdBrep_4.00_10.dll
+D:\pro\huitu\CAD2Json - 3.16\CAD2Json\Dwg2Json\bin\x86\Debug\TD_Mgd_4.00_10.dll
+D:\pro\huitu\CAD2Json - 3.16\CAD2Json\Dwg2Json\bin\x86\Debug\TD_Br_4.00_10.dll
+D:\pro\huitu\CAD2Json - 3.16\CAD2Json\Dwg2Json\bin\x86\Debug\TD_BrepRenderer_4.00_10.dll
+D:\pro\huitu\CAD2Json - 3.16\CAD2Json\Dwg2Json\bin\x86\Debug\TD_AcisBuilder_4.00_10.dll
+D:\pro\huitu\CAD2Json - 3.16\CAD2Json\Dwg2Json\bin\x86\Debug\ModelerGeometry_4.00_10.tx
+D:\pro\huitu\CAD2Json - 3.16\CAD2Json\Dwg2Json\bin\x86\Debug\TD_Alloc_4.00_10.dll
+D:\pro\huitu\CAD2Json - 3.16\CAD2Json\Dwg2Json\bin\x86\Debug\TD_Db_4.00_10.dll
+D:\pro\huitu\CAD2Json - 3.16\CAD2Json\Dwg2Json\bin\x86\Debug\TD_DbRoot_4.00_10.dll
+D:\pro\huitu\CAD2Json - 3.16\CAD2Json\Dwg2Json\bin\x86\Debug\TD_Gi_4.00_10.dll
+D:\pro\huitu\CAD2Json - 3.16\CAD2Json\Dwg2Json\bin\x86\Debug\TD_Ge_4.00_10.dll
+D:\pro\huitu\CAD2Json - 3.16\CAD2Json\Dwg2Json\bin\x86\Debug\TD_Gs_4.00_10.dll
+D:\pro\huitu\CAD2Json - 3.16\CAD2Json\Dwg2Json\bin\x86\Debug\TD_Root_4.00_10.dll
+D:\pro\huitu\CAD2Json - 3.16\CAD2Json\Dwg2Json\bin\x86\Debug\TD_DynBlocks_4.00_10.tx
+D:\pro\huitu\CAD2Json - 3.16\CAD2Json\Dwg2Json\bin\x86\Debug\TD_SpatialIndex_4.00_10.dll
+D:\pro\huitu\CAD2Json - 3.16\CAD2Json\Dwg2Json\obj\Debug\CAD2Json.csprojAssemblyReference.cache
+D:\pro\huitu\CAD2Json - 3.16\CAD2Json\Dwg2Json\obj\Debug\Dwg2Json.Form2.resources
+D:\pro\huitu\CAD2Json - 3.16\CAD2Json\Dwg2Json\obj\Debug\Dwg2Json.FormMain.resources
+D:\pro\huitu\CAD2Json - 3.16\CAD2Json\Dwg2Json\obj\Debug\Dwg2Json.Properties.Resources.resources
+D:\pro\huitu\CAD2Json - 3.16\CAD2Json\Dwg2Json\obj\Debug\CAD2Json.csproj.GenerateResource.cache
+D:\pro\huitu\CAD2Json - 3.16\CAD2Json\Dwg2Json\obj\Debug\CAD2Json.csproj.CoreCompileInputs.cache
+D:\pro\huitu\CAD2Json - 3.16\CAD2Json\Dwg2Json\obj\Debug\CAD2Json.csproj.CopyComplete
+D:\pro\huitu\CAD2Json - 3.16\CAD2Json\Dwg2Json\obj\Debug\CAD2Json.exe
+D:\pro\huitu\CAD2Json - 3.16\CAD2Json\Dwg2Json\obj\Debug\CAD2Json.pdb
+D:\pro\huitu\CAD2Json - 3.17\CAD2Json\Dwg2Json\bin\x86\Debug\CAD2Json.exe.config
+D:\pro\huitu\CAD2Json - 3.17\CAD2Json\Dwg2Json\bin\x86\Debug\CAD2Json.exe
+D:\pro\huitu\CAD2Json - 3.17\CAD2Json\Dwg2Json\bin\x86\Debug\CAD2Json.pdb
+D:\pro\huitu\CAD2Json - 3.17\CAD2Json\Dwg2Json\bin\x86\Debug\Newtonsoft.Json.dll
+D:\pro\huitu\CAD2Json - 3.17\CAD2Json\Dwg2Json\bin\x86\Debug\TD_MgdBrep_4.00_10.dll
+D:\pro\huitu\CAD2Json - 3.17\CAD2Json\Dwg2Json\bin\x86\Debug\TD_Mgd_4.00_10.dll
+D:\pro\huitu\CAD2Json - 3.17\CAD2Json\Dwg2Json\bin\x86\Debug\TD_Br_4.00_10.dll
+D:\pro\huitu\CAD2Json - 3.17\CAD2Json\Dwg2Json\bin\x86\Debug\TD_BrepRenderer_4.00_10.dll
+D:\pro\huitu\CAD2Json - 3.17\CAD2Json\Dwg2Json\bin\x86\Debug\TD_AcisBuilder_4.00_10.dll
+D:\pro\huitu\CAD2Json - 3.17\CAD2Json\Dwg2Json\bin\x86\Debug\ModelerGeometry_4.00_10.tx
+D:\pro\huitu\CAD2Json - 3.17\CAD2Json\Dwg2Json\bin\x86\Debug\TD_Alloc_4.00_10.dll
+D:\pro\huitu\CAD2Json - 3.17\CAD2Json\Dwg2Json\bin\x86\Debug\TD_Db_4.00_10.dll
+D:\pro\huitu\CAD2Json - 3.17\CAD2Json\Dwg2Json\bin\x86\Debug\TD_DbRoot_4.00_10.dll
+D:\pro\huitu\CAD2Json - 3.17\CAD2Json\Dwg2Json\bin\x86\Debug\TD_Gi_4.00_10.dll
+D:\pro\huitu\CAD2Json - 3.17\CAD2Json\Dwg2Json\bin\x86\Debug\TD_Ge_4.00_10.dll
+D:\pro\huitu\CAD2Json - 3.17\CAD2Json\Dwg2Json\bin\x86\Debug\TD_Gs_4.00_10.dll
+D:\pro\huitu\CAD2Json - 3.17\CAD2Json\Dwg2Json\bin\x86\Debug\TD_Root_4.00_10.dll
+D:\pro\huitu\CAD2Json - 3.17\CAD2Json\Dwg2Json\bin\x86\Debug\TD_DynBlocks_4.00_10.tx
+D:\pro\huitu\CAD2Json - 3.17\CAD2Json\Dwg2Json\bin\x86\Debug\TD_SpatialIndex_4.00_10.dll
+D:\pro\huitu\CAD2Json - 3.17\CAD2Json\Dwg2Json\obj\Debug\Dwg2Json.Form2.resources
+D:\pro\huitu\CAD2Json - 3.17\CAD2Json\Dwg2Json\obj\Debug\Dwg2Json.FormMain.resources
+D:\pro\huitu\CAD2Json - 3.17\CAD2Json\Dwg2Json\obj\Debug\Dwg2Json.Properties.Resources.resources
+D:\pro\huitu\CAD2Json - 3.17\CAD2Json\Dwg2Json\obj\Debug\CAD2Json.csproj.GenerateResource.cache
+D:\pro\huitu\CAD2Json - 3.17\CAD2Json\Dwg2Json\obj\Debug\CAD2Json.csproj.CoreCompileInputs.cache
+D:\pro\huitu\CAD2Json - 3.17\CAD2Json\Dwg2Json\obj\Debug\CAD2Json.csproj.CopyComplete
+D:\pro\huitu\CAD2Json - 3.17\CAD2Json\Dwg2Json\obj\Debug\CAD2Json.exe
+D:\pro\huitu\CAD2Json - 3.17\CAD2Json\Dwg2Json\obj\Debug\CAD2Json.pdb
+D:\pro\huitu\CAD2Json - 3.17\CAD2Json\Dwg2Json\obj\Debug\CAD2Json.csprojAssemblyReference.cache
